@@ -1,0 +1,33 @@
+{
+    "layout": {
+        "alternation": "rows",
+        "hspace": "2mm",
+        "vspace": "2mm",
+        "hbackbone": "5mm",
+        "rotation": "180deg",
+        "rows": "2",
+        "cols": "4",
+        "vbonecut": "False"
+    },
+    "source": {
+        "tolerance": "10mm"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "drill": "0.38mm",
+        "spacing": "0.64mm",
+        "offset": "-0.19mm",
+        "prolong": "0.38mm"
+    },
+    "framing": {
+        "type": "railstb"
+    },
+    "text": {
+        "type": "simple",
+        "voffset": "2mm",
+        "text": "JLCJLCJLCJLC"
+    },
+    "post": {
+        "millradius": "1mm"
+    }
+}
